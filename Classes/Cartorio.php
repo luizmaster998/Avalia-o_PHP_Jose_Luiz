@@ -19,6 +19,6 @@ Class Cartorio
     {
         $this->nome = $nome;
 
-   
+
     }
 }

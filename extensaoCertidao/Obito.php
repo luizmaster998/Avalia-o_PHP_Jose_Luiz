@@ -92,6 +92,7 @@ class Obito extends Certidao
         {
             return $this->dtObito;
         }
+        
     
         public function setDtObito($dtObito)
         {

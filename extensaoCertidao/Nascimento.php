@@ -58,6 +58,7 @@ class Nascimento extends Certidao
 
      }
 
+     
 
      public function getDtEmissao()
      {

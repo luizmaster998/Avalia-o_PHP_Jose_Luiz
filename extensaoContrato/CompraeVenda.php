@@ -84,6 +84,7 @@ class CompraeVenda extends Contrato
   {
       $this->valor = $valor;
 
+      
   }
  //=================================================================
 

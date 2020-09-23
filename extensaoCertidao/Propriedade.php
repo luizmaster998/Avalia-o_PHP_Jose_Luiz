@@ -56,6 +56,7 @@ class Propriedade extends Certidao
 
         }
 
+        
 
         public function getDtEmissao()
         {

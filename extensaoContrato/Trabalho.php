@@ -18,6 +18,7 @@ class Trabalho extends Contrato
     return $this->nrRegisro;
   }
 
+  
   public function setNrRegisro($nrRegisro){
     $this->nrRegisro = $nrRegisro;
   }

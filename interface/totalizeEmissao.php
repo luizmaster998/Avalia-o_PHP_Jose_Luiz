@@ -11,4 +11,5 @@ interface totalizeEmissao
 
     public Function totalEmissaoContrato();
     
+    
 }

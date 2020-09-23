@@ -19,7 +19,6 @@ class EmitirDocumento implements totalizeEmissao
                       print_r($certidao[0]).'<br>';
                  }
     }
-
     
 
     public function adicionarContrato(contrato $umcontrato)

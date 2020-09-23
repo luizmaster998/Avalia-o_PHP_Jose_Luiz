@@ -76,6 +76,7 @@ class PrestacaoDeServicos extends Contrato
     $this->nomeDoCartorio = $nomeDoCartorio;
   }
 
+  
   public function getDtDoServico()
   {
       return $this->dtDoServico;

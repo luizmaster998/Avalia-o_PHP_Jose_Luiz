@@ -14,6 +14,7 @@ class Casamento extends Certidao
         $this->dtCasamento = $dtCasamento;
     }
 
+    
      //============ Gets e Sets ===============
      public function getNrRegistroCertidao()
      {

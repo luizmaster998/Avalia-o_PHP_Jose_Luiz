@@ -89,6 +89,6 @@ abstract Class Contrato
   public function setNomeDoCartorio($nomeDoCartorio){
     $this->nomeDoCartorio = $nomeDoCartorio;
   }
- //=================================================================
+ //================================================================
 }
 
